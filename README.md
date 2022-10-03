@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PandaPlayZ</h1>
-<h3 align="center">just random dude from germany trying random stuff</h3>
+<h3 align="center">just a random dude from germany trying random stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandaplayzlp&label=Profile%20views&color=0e75b6&style=flat" alt="pandaplayzlp" /> </p>
 
