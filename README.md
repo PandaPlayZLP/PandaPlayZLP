@@ -36,7 +36,8 @@ I'm drawn to modern, clean, and visually engaging designs that reflect professio
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>  <p align="left">  <a href="https://discord.gg/chjVetEuFX"> <img src="https://img.shields.io/badge/Discord-PandaScriptZ-blue?style=for-the-badge&logo=discord" alt="Discord"/> </a> <a href="mailto:PandaScriptZ@gmail.com"> <img src="https://img.shields.io/badge/Email-PandaScriptZ%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/> </a> <a href="https://www.linkedin.com/in/tino-dillmann-5152681ba/"> <img src="https://img.shields.io/badge/LinkedIn-Tino Dillmann-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> </p>
+<h3 align="left">🔗 Connect with me:</h3>  <p align="left">  <a href="https://discord.gg/chjVetEuFX"> <img src="https://img.shields.io/badge/Discord-PandaScriptZ-blue?style=for-the-badge&logo=discord" alt="Discord"/> </a> <a href="mailto:PandaScriptZ@gmail.com"> <img src="https://img.shields.io/badge/Email-PandaScriptZ%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/> 
+</a> </p>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
