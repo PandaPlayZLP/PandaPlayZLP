@@ -59,5 +59,7 @@ I'm drawn to modern, clean, and visually engaging designs that reflect professio
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandaplayzlp&theme=dark" alt="pandaplayzlp" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pandascriptz&theme=onedark)](https://github.com/pandascriptz/github-profile-trophy)
+
 ### 🤝 Let's Connect! 
 If you're interested in collaborating on projects, have questions, or just want to say hi, feel free to reach out to me!
