@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm PandaPlayZ</h1>
-<h2 align="center">Student, Self-Taught Programmer, and Aspiring Entrepreneur</h2>
+<h2 align="center">Self-Taught Programmer</h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pandaplayzlp&label=Profile%20views&color=0e75b6&style=flat-square" alt="pandaplayzlp" />
