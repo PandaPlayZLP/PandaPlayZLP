@@ -53,11 +53,7 @@ I'm drawn to modern, clean, and visually engaging designs that reflect professio
 
 ---
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pandaplayzlp&show_icons=true&theme=dark&locale=en&layout=compact" alt="pandaplayzlp" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pandaplayzlp&show_icons=true&theme=dark&locale=en" alt="pandaplayzlp" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandaplayzlp&theme=dark" alt="pandaplayzlp" />
-</div>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pandaplayzlp&theme=onedark)](https://github.com/pandaplayzlp/github-profile-trophy)
 
