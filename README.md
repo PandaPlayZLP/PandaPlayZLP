@@ -48,7 +48,7 @@ I'm drawn to modern, clean, and visually engaging designs that reflect professio
 
 <h3 align="left">🌍 Languages:</h3>
 <p align="left">
-    🇩🇪 German (Native), 🇬🇧 English (Fluent), 🇪🇸 Spanish (Basic), 🇯🇵 Japanese (Basic)
+    🇩🇪 German (Native), 🇬🇧 English (Fluent), 🇪🇸 Spanish (Basic)
 </p>
 
 ---
